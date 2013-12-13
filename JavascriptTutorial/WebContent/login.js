@@ -3,7 +3,7 @@ function checkParameters(){
 	var email=document.getElementById("email");
 	var pass=document.getElementById("password");
 	if(pass.value.length<9){
-		alert("Password demasiado corto");
+		alert("Password demasiado corto JAJAJJAAJ");
 	}
 	
 }
